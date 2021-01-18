@@ -3,7 +3,7 @@
 The objective of this is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
 ## What you will create
-I made a crypto currency price checking app. You'll be able to monitor your bitcoin investents on the move!
+I made a crypto currency price checking app. You'll be able to monitor your crypto currency investments on the move!
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
